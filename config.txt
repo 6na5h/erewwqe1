@@ -1,6 +1,6 @@
 token=NTE2Mjc0NDc4MjQ3MDUxMjg0.DtxmSQ.IsM9wJVeBEzCoB3A0ypaO8venqU
 owner=465811762386567168
-prefix= 1
-game= 1play
+prefix= Pi
+game= Piplay
 stayinchannel=true
 songinstatus=true 
